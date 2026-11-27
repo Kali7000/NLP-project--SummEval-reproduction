@@ -1,4 +1,4 @@
-# NLP project- SummEval reprocution
+# NLP project- SummEval reproduction
 
 # Reproducing SummEval: Re-evaluating Summarization Evaluation
 ### ReproNLP 2026 — Track A Reproduction Report
